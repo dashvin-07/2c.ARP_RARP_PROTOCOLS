@@ -17,9 +17,9 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
-NAME : HARI RAM R
+NAME : DASHVIN S
 
-REGISTER NUMBER : 212224240050
+REGISTER NUMBER : 212224100008
 CLENT:
 ```
 import socket 
